@@ -1,0 +1,13 @@
+table, th, td {
+  border: 1px solid black;
+
+}
+.tab{
+  margin-left: 50px;
+
+}
+
+.head{
+  margin-top: 5px;
+
+}
